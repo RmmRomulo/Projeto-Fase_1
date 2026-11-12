@@ -43,45 +43,8 @@ Catálogo interativo dividido em **3 categorias principais** (com no mínimo doi
 ---
 
 ## 📅 Escopo e Metas de Desenvolvimento
-* **Prazo Total Estimado:** 2 meses (ciclo acadêmico).
-* **Prazo do MVP (Produto Mínimo Viável):** 3 a 4 semanas (contemplando catálogo das 3 categorias, carrinho básico e agendamento de banho e tosa).
-* **Infraestrutura e Custos:** Desenvolvimento acadêmico com custo zero, utilizando ferramentas open-source e hospedagem em camadas gratuitas.
-
----
-
-## 💻 Tecnologias Sugeridas / Stack
-* **Frontend:** HTML5, CSS3, JavaScript (ou framework web moderno)
-* **Backend:** Node.js / Express (ou stack definida pela disciplina)
-* **Banco de Dados:** Banco relacional ou NoSQL (ex.: PostgreSQL, MySQL ou MongoDB)
-* **Versionamento:** Git & GitHub
-
----
-
-## ⚙️ Como Executar o Projeto
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/plataforma-petshop.git
-   ```
-
-2. **Acesse a pasta do projeto:**
-   ```bash
-   cd plataforma-petshop
-   ```
-
-3. **Instale as dependências:**
-   ```bash
-   npm install
-   ```
-
-4. **Inicie o servidor de desenvolvimento:**
-   ```bash
-   npm start
-   ```
-
-5. Acesse no navegador: `http://localhost:3000`
-
----
-
+* **Prazo Total Estimado:** 2 meses.
+* **Prazo do MVP (Produto Mínimo Viável):** 1 a 2 semanas (contemplando catálogo das 3 categorias, carrinho básico e agendamento de banho e tosa).
+  
 ## 📄 Licença
 Projeto desenvolvido exclusivamente para fins acadêmicos.
