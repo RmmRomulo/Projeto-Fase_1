@@ -43,7 +43,7 @@ Catálogo interativo dividido em **3 categorias principais** (com no mínimo doi
 ---
 
 ## 📅 Escopo e Metas de Desenvolvimento
-* **Prazo Total Estimado:** 2 meses.
+* **Prazo Total Estimado:** 3 meses.
 * **Prazo do MVP (Produto Mínimo Viável):** 1 a 2 semanas (contemplando catálogo das 3 categorias, carrinho básico e agendamento de banho e tosa).
   
 ## 📄 Licença
